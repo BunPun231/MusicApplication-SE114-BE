@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDEs
+.idea/
+*.iml
+
+#ip
+app/src/main/java/com/example/musicapplicationse114/ApiModule.kt
+app/src/main/res/xml/network_security_config.xml
+
+# Local config
+local.properties
+
+# Kotlin/Java error logs
+hs_err_pid*
+replay_pid*
+*.log
+
+# macOS
+.DS_Store
